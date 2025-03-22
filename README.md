@@ -1,5 +1,5 @@
 # ML 24/25-02 # ML Investigate Input reconstruction by using Classifiers
-###### _Through out this project we contribute to  implement the Spatial Pooler SDR Reconstruction in NeoCortexAPI_This project implements input reconstruction using  classifiers (KNN and HtmClassifier) to regenerate scalar inputs from Spatial Pooler SDRs
+###### Through out this project we contribute to  implement the Spatial Pooler SDR Reconstruction in NeoCortexAPI_This project implements input reconstruction using  classifiers (KNN and HtmClassifier) to regenerate scalar inputs from Spatial Pooler SDRs
 
 [![N|Logo](https://ddobric.github.io/neocortexapi/images/logo-NeoCortexAPI.svg )](https://ddobric.github.io/neocortexapi/)
 
@@ -40,7 +40,9 @@ Once the SDRs are generated, two classifiers—HTM Classifier and KNN Classifier
 To evaluate classifier performance, the results are visualized through similarity graphs and heatmaps. These visualizations show the accuracy of HTM and KNN predictions in reconstructing inputs from SDRs. By comparing their performance, we gain insights into which classifier is more effective for input reconstruction within HTM-based systems. The findings contribute to a better understanding of classification-based reconstruction techniques and their potential for enhancing Sparse Distributed Representations in machine learning applications.
 
 **Fig: Methodology Flowchart**
-![Methodology Flowchart](******** yet to add it ********)
+
+- (https://github.com/prnshubn/neocortexapi-team-untitled/blob/master/source/Documentation_Team_Untitled/Initial%20flow%20understanding.png)
+
 
 ## Training the HTM and KNN Classifiers
 
