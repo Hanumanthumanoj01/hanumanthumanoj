@@ -6,7 +6,7 @@
 
 In this Documentation we will describe our contribution in this project..
 
-#### Instruction for Running the Project
+#### Instruction for Running the Project 
 - Clone the Repository and Run
 - You will get the project here
 [NeoCortexApi-Team](https://github.com/prnshubn/neocortexapi-team-untitled/tree/master/source/NeoCortexApi.Experiments)
@@ -41,7 +41,7 @@ To evaluate classifier performance, the results are visualized through similarit
 
 **Fig: Methodology Flowchart**
 
-- (https://github.com/prnshubn/neocortexapi-team-untitled/blob/master/source/Documentation_Team_Untitled/Initial%20flow%20understanding.png)
+![Methodology Flowchart](https://github.com/prnshubn/neocortexapi-team-untitled/blob/master/source/Documentation_Team_Untitled/Initial%20flow%20understanding.png)
 
 
 ## Training the HTM and KNN Classifiers
