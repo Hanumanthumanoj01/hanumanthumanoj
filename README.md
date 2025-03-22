@@ -4,7 +4,7 @@
 [![N|Logo](https://ddobric.github.io/neocortexapi/images/logo-NeoCortexAPI.svg )](https://ddobric.github.io/neocortexapi/)
 
 
-In this Documentation we will describe our contribution in this project.
+In this Documentation we will describe our contribution in this project..
 
 #### Instruction for Running the Project
 - Clone the Repository and Run
